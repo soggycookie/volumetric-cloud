@@ -76,3 +76,7 @@ Assets/Ignore/
 Assets/Texture/
 Assets/Texture3D/
 Old/
+.vsconfig
+Assets/Texture.meta
+Assets/Texture3D.meta
+Assets/Ignore.meta
